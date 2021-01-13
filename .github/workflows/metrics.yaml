@@ -1,0 +1,52 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "8 * * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Personal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # The file to render to
+          filename: github-metrics.svg
+
+          # Authentication
+          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Limit default blocks
+          base: "header, repositories"
+
+          # Show errors for blocks that can't be rendered
+          plugin_errors_fatal: yes
+
+          # Lines Plugin
+          plugin_lines: yes
+
+          # Languages Plugin
+          plugin_languages: yes
+
+          # Topics Plugin
+          plugin_topics: yes
+          plugins_topics_mode: mastered
+
+          # Stars Plugin
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # Order blocks
+          config_order: base.header, base.repositories, lines, stars, languages, topics
+
+          # Timezone for header (or calendar)
+          config_timezone: America/Los_Angeles
+
+          # Padding for the rendered image
+          config_padding: 10%
