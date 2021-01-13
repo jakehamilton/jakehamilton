@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Personal metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           # The file to render to
           filename: github-metrics.svg
