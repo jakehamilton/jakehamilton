@@ -652,6 +652,13 @@
     }
   }
 
+/* Twemoji */
+  .twemoji {
+    height: 1em;
+    width: 1em;
+    margin-bottom: -.125em;
+  }
+
 /* Cake day */
   .cakeday, .cakeday svg {
     animation: animation-rainbow 1.2s;
@@ -853,7 +860,7 @@
                   
                   <div class="name">
                     <span>krakazyabra/jitsi-helm</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -895,7 +902,7 @@
                   
                   <div class="name">
                     <span>qpkorr/vim-bufkill</span>
-                    <span>starred 21 hours ago</span>
+                    <span>starred 22 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
