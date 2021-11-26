@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>/* SVG global context */
+    <style data-optimizable="true">/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lucacasonato/floatplaneapi</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial API to interface with floatplane.com from own systems. This is not in any way affiliated with floatplane.com.</div>
