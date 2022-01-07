@@ -144,7 +144,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvim-telescope/telescope.nvim</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find, Filter, Preview, Pick. All lua, all the time.</div>
@@ -297,7 +297,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/which-key.nvim</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.</div>
