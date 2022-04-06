@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    662k added, 113k removed
+                                    480k added, 106k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dusk-Labs/dim</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dim, a media manager fueled by dark forces.</div>
@@ -166,7 +166,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.25k
+                                        2.26k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -273,7 +273,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.47k
+                                        1.48k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -368,27 +368,27 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.6947831044934" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="207.6947831044934" y="0" width="82.3396724674609" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="290.0344555719543" y="0" width="49.74930638723916" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="339.7837619591935" y="0" width="37.19138256051549" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="376.975144519709" y="0" width="24.421378277439647" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="401.39652279714863" y="0" width="23.514326479502618" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="424.9108492766513" y="0" width="21.31797609661746" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="446.2288253732687" y="0" width="13.771174626731305" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.49270266229803" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="190.49270266229803" y="0" width="148.19776314642016" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="338.69046580871816" y="0" width="35.530886768241785" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="374.22135257695993" y="0" width="26.537400802302262" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="400.7587533792622" y="0" width="17.425539436145957" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="418.1842928154081" y="0" width="16.77832506945396" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="434.9626178848621" y="0" width="15.211149385192291" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.17376727005444" y="0" width="9.826232729945557" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
