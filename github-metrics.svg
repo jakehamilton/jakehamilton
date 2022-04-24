@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    720k added, 118k removed
+                                    708k added, 113k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theglitchh/Nord-Wallpapers</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Full HD wallpapers based on Nord Color pallete</div>
@@ -186,7 +186,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dovahkiin711/Dotfiles</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -344,14 +344,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.0137281435846" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="256.0137281435846" y="0" width="113.75967142670608" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="369.77339957029074" y="0" width="24.595390714955546" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="394.36879028524623" y="0" width="20.228440345191885" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="414.5972306304381" y="0" width="13.282818750519331" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.8800493809575" y="0" width="12.789472122312834" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="440.6695215032703" y="0" width="11.840319076955948" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.50984058022624" y="0" width="7.49015941977375" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.9566837987925" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="255.9566837987925" y="0" width="113.73432377848674" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.69100757727927" y="0" width="24.69240649155563" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="394.3834140688349" y="0" width="20.223933094217397" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="414.6073471630523" y="0" width="13.279859105745162" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.88720626879746" y="0" width="12.786622403812405" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="440.67382867260983" y="0" width="11.837680846386158" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.51150951899604" y="0" width="7.488490481003991" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
