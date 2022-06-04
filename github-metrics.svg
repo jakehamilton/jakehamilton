@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 51 repositories
+                            Contributed to 52 repositories
                         </div>
                     </section>
                 </div>
@@ -63,7 +63,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            164 Repositories
+                            165 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    805k added, 126k removed
+                                    792k added, 122k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cheat/cheat</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.</div>
@@ -361,14 +361,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.91465069610405" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="270.91465069610405" y="0" width="104.09033246044906" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="375.0049831565531" y="0" width="23.099620503085674" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="398.1046036596388" y="0" width="18.39051327861484" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.49511693825366" y="0" width="13.911375896199258" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="430.40649283445293" y="0" width="11.62743903524794" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="442.03393186970084" y="0" width="10.764524673774567" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.79845654347537" y="0" width="7.20154345652459" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.89418646874395" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="270.89418646874395" y="0" width="104.08246973237588" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="374.97665620111985" y="0" width="23.132622884746436" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="398.10927908586626" y="0" width="18.38912410440799" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.49840319027425" y="0" width="13.910325065029731" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="430.40872825530397" y="0" width="11.626560727059651" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="442.03528898236357" y="0" width="10.763711548017868" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.7990005303815" y="0" width="7.20099946961853" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
