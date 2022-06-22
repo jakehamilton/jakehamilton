@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ipetkov/crane</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.</div>
