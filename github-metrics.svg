@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    810k added, 127k removed
+                                    794k added, 122k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iced-rs/iced</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cross-platform GUI library for Rust, inspired by Elm</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antoyo/relm</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust</div>
@@ -370,14 +370,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.5918165165103" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="269.5918165165103" y="0" width="103.1056095394146" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="372.6974260559249" y="0" width="25.70940321472516" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="398.40682927065006" y="0" width="18.300715257419913" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.70754452807" y="0" width="13.843448807452358" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="430.5509933355224" y="0" width="11.570664055609713" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="442.1216573911321" y="0" width="10.711963170995146" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.83362056212724" y="0" width="7.166379437872801" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.5944946029625" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="269.5944946029625" y="0" width="103.10663377575688" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="372.7011283787194" y="0" width="25.70508903420361" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="398.406217412923" y="0" width="18.300897054101394" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.7071144670244" y="0" width="13.843586326287992" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="430.5507007933124" y="0" width="11.570778996927485" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="442.12147979023985" y="0" width="10.712069582101444" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.8335493723413" y="0" width="7.16645062765865" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
