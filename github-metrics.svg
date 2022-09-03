@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sr229/animegrep</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">extracts video clips in anime (anything that is mkv with subtitles) by parsing and grepping the subtitle file for a chosen word. Uses mkvextract and ffmpeg to both extract the subtitles and create the clips. This fork adds further fixes within the pipeline.</div>
