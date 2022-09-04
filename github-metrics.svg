@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sr229/animegrep</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">extracts video clips in anime (anything that is mkv with subtitles) by parsing and grepping the subtitle file for a chosen word. Uses mkvextract and ffmpeg to both extract the subtitles and create the clips. This fork adds further fixes within the pipeline.</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WayfireWM/wayfire</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular and extensible wayland compositor</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Javyre/swayfire</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sway/I3 inspired tiling window manager for Wayfire</div>
@@ -367,14 +367,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.69104619292733" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="268.69104619292733" y="0" width="102.68993381910556" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="371.3809800120329" y="0" width="26.87760411792232" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="398.25858412995524" y="0" width="18.226934955545158" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.48551908550036" y="0" width="13.787638211110368" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="430.27315729661075" y="0" width="11.524016311250753" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="441.7971736078615" y="0" width="11.05094725583261" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.8481208636941" y="0" width="7.151879136305903" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.6146941854618" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="268.6146941854618" y="0" width="102.66075315713455" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="371.27544734259635" y="0" width="27.000681402679042" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="398.2761287452754" y="0" width="18.221755538167773" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.49788428344317" y="0" width="13.78372027684891" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="430.28160456029207" y="0" width="11.520741614189216" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="441.80234617448133" y="0" width="11.04780698741156" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.8501531618929" y="0" width="7.149846838107117" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
