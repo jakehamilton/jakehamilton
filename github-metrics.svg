@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pta2002/nixvim</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configure Neovim with Nix!</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ellisonleao/glow.nvim</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A markdown preview directly in your neovim.</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gvolpe/neovim-flake</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix flake for neovim &amp; scala metals</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yaxitech/ragenix</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">age-encrypted secrets for NixOS; drop-in replacement for agenix</div>
