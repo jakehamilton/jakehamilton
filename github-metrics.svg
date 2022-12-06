@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    514k added, 50.7k removed
+                                    492k added, 26.1k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charakterziffer/cursor-toolbox</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools to create an X11 cursor theme out of an SVG file</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stonith404/pingvin-share</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self-hosted file sharing platform.</div>
@@ -361,14 +361,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.03759022184806" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="258.03759022184806" y="0" width="104.3353891515763" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.3729793734244" y="0" width="36.092298423969694" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="398.46527779739404" y="0" width="17.548780209087937" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.014058006482" y="0" width="14.709152264511571" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="430.7232102709936" y="0" width="11.24463843338381" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="441.9678487043774" y="0" width="11.06709524104227" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.0349439454197" y="0" width="6.965056054580318" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.3538171136123" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="259.3538171136123" y="0" width="103.64389850968212" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.9977156232945" y="0" width="35.86133606312054" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="398.859051686415" y="0" width="17.436481799618345" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.2955334860334" y="0" width="14.615025243472509" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="430.91055872950585" y="0" width="11.172681579626207" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.08324030913207" y="0" width="10.99627452426254" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.07951483339457" y="0" width="6.9204851666053875" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
