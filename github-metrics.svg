@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    998k added, 114k removed
+                                    973k added, 91.2k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gbprod/substitute.nvim</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin introducing a new operators motions to quickly replace and exchange text.</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kareadita/Kavita</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.</div>
@@ -367,14 +367,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.4889794978303" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="259.4889794978303" y="0" width="103.65249545992813" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.1414749577585" y="0" width="35.80818884253135" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="398.94966380028984" y="0" width="17.41064058324892" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.36030438353873" y="0" width="14.593365482409386" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="430.95366986594814" y="0" width="11.156123441038174" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.1097933069863" y="0" width="10.979977824475013" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.08977113146136" y="0" width="6.9102288685386775" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.50891576748245" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="259.50891576748245" y="0" width="103.65520740627912" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.16412317376154" y="0" width="35.799815892445324" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="398.9639390662069" y="0" width="17.406569491432172" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="416.370508557639" y="0" width="14.589953147836738" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="430.9604617054757" y="0" width="11.153514829216554" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.11397653469226" y="0" width="10.977410400395723" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.09138693508794" y="0" width="6.908613064911923" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
