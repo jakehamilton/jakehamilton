@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.43m added, 94k removed
+                                    622k added, 81.5k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mnowotnik/noteflow.nvim</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin that streamlines taking notes</div>
@@ -367,14 +367,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.10352762727973" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="230.10352762727973" y="0" width="91.33422333501291" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="321.4377509622926" y="0" width="79.64261411154803" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="401.08036507384065" y="0" width="19.317122835815468" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="420.39748790965615" y="0" width="12.936641923234758" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.3341298328909" y="0" width="10.806663584559683" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="444.1407934174506" y="0" width="9.733467006737348" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="453.8742604241879" y="0" width="6.12573957581204" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.04107783655073" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="230.04107783655073" y="0" width="91.30943534852489" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="321.35051318507567" y="0" width="79.7458425991593" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="401.0963557842349" y="0" width="19.3118801944226" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="420.40823597865756" y="0" width="12.933130935858017" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.34136691451556" y="0" width="10.803730670465344" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="444.14509758498093" y="0" width="9.730825356763933" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.8759229417448" y="0" width="6.124077058255205" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
