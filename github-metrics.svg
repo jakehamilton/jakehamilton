@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lf-/flakey-profile</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Declarative profiles with nix flakes</div>
@@ -239,7 +239,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>polygon/audio.nix</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Assorted audio packages for Nix(OS)/Linux.</div>
