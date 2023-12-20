@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>windwp/nvim-autopairs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">autopairs for neovim written by lua</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StevenBlack/hosts</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DimitrisMilonopoulos/mitsugen</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material You for Gnome and GTK4 and  GTK3</div>
@@ -298,7 +298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wlrfx/scenefx</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A drop-in replacement for the wlroots scene API that allows wayland compositors to render surfaces with eye-candy effects</div>
