@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    452k added, 57.5k removed
+                                    542k added, 45.3k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BG3-Community-Library-Team/BG3-Community-Library</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Baldur's Gate 3 Community Library exists to provide a common collection of Spells, Scripts, Items, Statuses, Passives, and other useful material that will assist modders in creating new content.</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/jco</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript tooling for working with WebAssembly Components</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytecodealliance/ComponentizeJS</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JS -&gt; WebAssembly Component</div>
@@ -367,14 +367,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.56232515763574" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="241.56232515763574" y="0" width="86.37011663908115" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="327.9324417967169" y="0" width="77.18592707038906" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="405.1183688671059" y="0" width="17.835992935716813" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.95436180282275" y="0" width="12.258983678286087" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="435.21334548110883" y="0" width="9.999747674381505" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.21309315549036" y="0" width="8.987158711354297" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.20025186684467" y="0" width="5.799748133155357" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.56227478379247" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="241.56227478379247" y="0" width="86.37009862801624" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="327.93237341180867" y="0" width="77.18600689995729" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="405.118380311766" y="0" width="17.835989216314328" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.9543695280803" y="0" width="12.258981121877003" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.2133506499573" y="0" width="9.999745589098868" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.21309623905614" y="0" width="8.987156837230408" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.2002530762866" y="0" width="5.799746923713432" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
