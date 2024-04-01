@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    556k added, 49k removed
+                                    5.36m added, 25.2k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Smithay/smithay</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A smithy for rusty wayland compositors</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Smithay/wayland-rs</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust implementation of the wayland protocol (client and server).</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mahkoh/jay</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Wayland compositor written in rust</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>norcalli/snippets.nvim</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -368,14 +368,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.36193519548704" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="241.36193519548704" y="0" width="86.70170242939443" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="328.06363762488144" y="0" width="77.13535839376296" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="405.19899601864444" y="0" width="17.790479732443586" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.98947575108804" y="0" width="12.287119365162962" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="435.276595116251" y="0" width="9.9742307014703" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.25082581772125" y="0" width="8.964225624155125" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.21505144187637" y="0" width="5.78494855812361" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.3504391117264" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="241.3504391117264" y="0" width="86.71594263427102" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="328.06638174599743" y="0" width="77.13522444782407" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="405.20160619382153" y="0" width="17.78963237080398" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.99123856462546" y="0" width="12.286534128914818" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.2777726935403" y="0" width="9.973755628250906" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.2515283217912" y="0" width="8.963798657539444" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.21532697933065" y="0" width="5.784673020669366" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
