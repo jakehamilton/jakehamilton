@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    940k added, 144k removed
+                                    5.77m added, 166k removed
                                 </div>
                             </section>
                             <section>
@@ -109,7 +109,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    564 Stargazers
+                                    563 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Diegiwg/PrismLauncher-Cracked</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to the project's source code.</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Saltssaumure/w9x-discord-theme</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Windows 9x style Discord theme.</div>
@@ -361,14 +361,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.27976803924838" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="246.27976803924838" y="0" width="89.46425826953694" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="335.7440263087853" y="0" width="68.24318967808057" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="403.98721598686586" y="0" width="18.081488993364665" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.06870498023056" y="0" width="12.688919457884444" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="434.757624438115" y="0" width="10.19787188208401" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="444.95549632019896" y="0" width="9.11085869492375" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.0663550151227" y="0" width="5.933644984877226" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.2859125164177" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="246.2859125164177" y="0" width="89.46168616353012" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="335.7475986799478" y="0" width="68.24122767983133" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="403.9888263597791" y="0" width="18.0809691488217" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.06979550860086" y="0" width="12.688554650232886" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="434.75835015883376" y="0" width="10.197578692289202" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="444.9559288511229" y="0" width="9.110596756862341" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.0665256079853" y="0" width="5.9334743920147455" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
