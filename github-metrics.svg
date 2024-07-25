@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -95,7 +95,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    515k added, 50.7k removed
+                                    5.54m added, 122k removed
                                 </div>
                             </section>
                             <section>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timohausmann/quadtree-ts</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quadtree Typescript Implementation</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MagmaWM/MagmaWM</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A versatile and customizable Window Manager and Wayland Compositor</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catacombing/catacomb</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Wayland Mobile Compositor</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinnacle-comp/pinnacle</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust</div>
@@ -367,14 +367,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.51377831070542" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="248.51377831070542" y="0" width="88.52812468163629" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="337.0419029923417" y="0" width="67.52910851048563" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="404.57101150282733" y="0" width="17.89228841770072" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="422.463299920528" y="0" width="12.556145499563522" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="435.01944542009153" y="0" width="10.091163677281545" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.11060909737307" y="0" width="9.015524748117432" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.1261338454905" y="0" width="5.873866154509453" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.63727175871026" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="248.63727175871026" y="0" width="88.47643032880795" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="337.1137020875182" y="0" width="67.48967614281628" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="404.6033782303345" y="0" width="17.881840548464844" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="422.4852187787993" y="0" width="12.548813571795339" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.0340323505947" y="0" width="10.08527112982888" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="445.1193034804236" y="0" width="9.01026030002325" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.1295637804468" y="0" width="5.870436219553193" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
