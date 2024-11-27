@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kotx/dex-tailscale</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Dex setup to use Tailscale for authentication</div>
@@ -293,7 +293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pbojinov/request-ip</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Node.js module for retrieving a request's IP address on the server.</div>
