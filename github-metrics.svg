@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WAVM/WAVM</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebAssembly Virtual Machine</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pd3v/line</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tiny command-line midi sequencer and language for live coding music</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pd3v/gen-plugin</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gen is a vst plugin for generative music</div>
@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evashort/chords</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Text-based chord progression editor</div>
