@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BatteredBunny/matrix-federation-filter</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility that helps you generate a Matrix federation whitelist by analyzing your server's federation history and filtering out potentially problematic domains.</div>
@@ -192,7 +192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ast-grep/ast-grep</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</div>
@@ -245,7 +245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waydabber/BetterDisplay</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!</div>
@@ -286,7 +286,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TimothyYe/godns</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net &amp; DuckDNS &amp; DreamHost, etc, written in Go.</div>
