@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Robert-van-Engelen/tinylisp</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.</div>
@@ -198,7 +198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LuckyTurtleDev/crab-hole</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns</div>
@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grovesNL/glyphon</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦅🦁 Fast, simple 2D text renderer for wgpu</div>
