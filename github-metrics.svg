@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ergochat/ergo</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern IRC server (daemon/ircd) written in Go.</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esmuellert/vscode-diff.nvim</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.</div>
