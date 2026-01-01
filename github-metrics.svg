@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThalesGroup/k8s-kms-plugin</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gRPC service that leverages a remote or local HSM/TPM to encrypt Kubernetes data at-rest with KMS v2.</div>
