@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThalesGroup/k8s-kms-plugin</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">gRPC service that leverages a remote or local HSM/TPM to encrypt Kubernetes data at-rest with KMS v2.</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>humorless/fennel-fp-neovim</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A series of articles exploring Fennel and Functional Programming in Neovim</div>
