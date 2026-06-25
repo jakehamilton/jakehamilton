@@ -145,7 +145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denful/zen</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal, stream-based Nix module system. Powered by nix-effects + bend + ned.</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtcristo/bevy_pixels</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bevy plugin that uses Pixels (a tiny pixel buffer) for rendering</div>
