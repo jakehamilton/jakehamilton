@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atmask/containix</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jul 13 2026</span>
                                     </div>
                                 </div>
                                 <div class="field description">A containerd shim that runs Nix flakes directly on Kubernetes — no container images required</div>
